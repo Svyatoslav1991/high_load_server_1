@@ -3,3 +3,5 @@
 *.filters
 *.user
 *.vscode
+high_load_server_1.vcxproj
+Debug
